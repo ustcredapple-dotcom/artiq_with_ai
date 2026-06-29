@@ -7,8 +7,8 @@
 - 用户需求：把当前工作完成后上传到 GitHub 仓库 `ustcredapple-dotcom/artiq_with_ai`。
 - 已完成：新增仓库根 README，准备将根交接文档、`remote/`、`observer/moku/` 同步到 GitHub 仓库。
 - 修改/新增文件：根目录 `README_中文.md`，并更新本日志。
-- 验证：上传前会在临时 clone 中检查 `git status`、提交并尝试 push。
-- 未完成/待确认：真实 GitHub push 是否成功取决于当前环境是否已有该仓库写权限/凭据。
+- 验证：已在临时 clone 中检查 `git status`，提交并成功 push 到 GitHub `main` 分支。
+- 未完成/待确认：真实硬件 IP、SSH 用户名、ARTIQ core IP、Moku:Go IP/MokuOS 版本仍待用户填写后测试。
 - 重要注意：不要提交本地真实配置文件或凭据。
 
 ## 2026-06-30 01:00 Codex 摘要
