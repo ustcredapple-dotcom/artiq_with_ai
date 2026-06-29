@@ -1,0 +1,8 @@
+{
+  "moku_ip": "192.168.10.100",
+  "moku_serial": "",
+  "moku_os_version": "",
+  "force_connect": false,
+  "timebase_start_s": -0.001,
+  "timebase_end_s": 0.001
+}

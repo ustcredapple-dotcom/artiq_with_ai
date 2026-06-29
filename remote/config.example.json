@@ -1,0 +1,14 @@
+{
+  "linux_host": "192.168.10.2",
+  "linux_user": "artiq",
+  "ssh_port": 22,
+  "ssh_identity_file": "",
+  "remote_project_dir": "~/artiq_remote_jobs",
+  "remote_env_setup": "",
+  "remote_artiq_run": "artiq_run",
+  "artiq_master_host": "",
+  "artiq_master_control_port": 3251,
+  "artiq_master_notify_port": 3250,
+  "local_artiq_client": "artiq_client",
+  "local_artiq_dashboard": "artiq_dashboard"
+}
